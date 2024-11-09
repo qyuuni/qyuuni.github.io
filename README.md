@@ -1,7 +1,6 @@
 ## Isala's Website
-##### Welcome to my personal site! Here, you’ll find information about my background, projects, and interests, along with updates on what I’m working on!
-
-Hello, my name is Isala Moorhead. 👋
+#### Hello, my name is Isala Moorhead. 👋
+#### Welcome to my personal site! Here, you’ll find information about my background, projects, and interests, along with updates on what I’m working on!
 
 Here are some links of where you can find me:
 
