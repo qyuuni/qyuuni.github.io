@@ -1,5 +1,5 @@
-## Isala's Portfolio Work
-##### This portfolio will list all the games that I've work on!
+## Isala's Website
+##### Welcome to my personal site! Here, you’ll find information about my background, projects, and interests, along with updates on what I’m working on!
 
 Hello, my name is Isala Moorhead. 👋
 
