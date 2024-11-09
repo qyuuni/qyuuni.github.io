@@ -1,7 +1,7 @@
 ## Isala's Portfolio Work
 ##### This portfolio will list all the games that I've work on!
 
-Hello my name is Isala Moorhead.
+Hello, my name is Isala Moorhead. 👋
 
 Here are some links of where you can find me:
 
